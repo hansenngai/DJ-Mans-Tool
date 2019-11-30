@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>stop</item>
+        <item>hype1</item>
+        <item>hype2</item>
+        <item>faker</item>
+
+
+    </string-array>
+
+    <integer-array name="ids">
+        <item>@raw/stop</item>
+        <item>@raw/hype1</item>
+        <item>@raw/hype2</item>
+        <item>@raw/faker</item>
+
+    </integer-array>
+</resources>
