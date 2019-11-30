@@ -2,7 +2,7 @@ android-Soundboard
 ================
 A simple soundboard application for Android
 
-![android-Soundboard Screenshot](http://i.imgur.com/eTKxZdX.png)
+DJ Mans Tool Edition
 
 Usage
 ----
